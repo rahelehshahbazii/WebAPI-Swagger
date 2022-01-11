@@ -1,0 +1,39 @@
+﻿@model List<WebClient.Models.CustomerRepository.Customer>
+
+@{
+    ViewData["Title"] = "Home Page";
+    int rowcount = 1;
+}
+<h2>
+    <a asp-action="Create" class="btn btn-success">Create New Customer</a>
+</h2>
+
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Name</th>
+        <th>Family</th>
+        <th>Email</th>
+        <th>Phone</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@rowcount</td>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.Email</td>
+            <td>@item.Phone</td>
+            <td></td>
+            <td>
+                <a href="/Home/Edit/@item.CustomerId" class="btn btn-warning">Edit</a>
+                <a href="/Home/Delete/@item.CustomerId" class="btn btn-danger">Delete</a>
+            </td>
+
+        </tr>
+        rowcount++;
+    }
+
+</table>

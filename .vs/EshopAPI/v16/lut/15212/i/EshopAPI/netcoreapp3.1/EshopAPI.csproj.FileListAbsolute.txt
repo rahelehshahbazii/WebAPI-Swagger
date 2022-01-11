@@ -1,0 +1,16 @@
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\b\EshopAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\b\EshopAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\b\EshopAPI\bin\Debug\netcoreapp3.1\EshopAPI.exe
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\b\EshopAPI\bin\Debug\netcoreapp3.1\EshopAPI.deps.json
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\b\EshopAPI\bin\Debug\netcoreapp3.1\EshopAPI.runtimeconfig.json
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\b\EshopAPI\bin\Debug\netcoreapp3.1\EshopAPI.runtimeconfig.dev.json
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\b\EshopAPI\bin\Debug\netcoreapp3.1\EshopAPI.dll
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\EshopAPI.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\EshopAPI.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\staticwebassets\EshopAPI.StaticWebAssets.Manifest.cache
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\staticwebassets\EshopAPI.StaticWebAssets.xml
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\scopedcss\bundle\EshopAPI.styles.css
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\EshopAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\EshopAPI.csproj.CopyComplete
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\EshopAPI.dll
+C:\Users\pc\Source\Repos\Projects  RelatdTo Working\EshopAPI\.vs\EshopAPI\v16\lut\0\i\EshopAPI\netcoreapp3.1\EshopAPI.genruntimeconfig.cache
